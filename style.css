@@ -1,3 +1,12 @@
+#header {
+  text-align: center;
+  background-color: rgb(37, 37, 37);
+  color: white;
+  position: relative;
+  font-size: 60px;
+  width: 100%;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -19,16 +28,6 @@ li {
   font-weight: bold;
   font-variant: small-caps;
 }
-
-#header {
-  text-align: center;
-  background-color: rgb(37, 37, 37);
-  color: white;
-  position: relative;
-  font-size: 60px;
-  width: 100%;
-}
-
 
 #infoCard {
   text-align: center;

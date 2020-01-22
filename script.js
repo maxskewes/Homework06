@@ -20,8 +20,8 @@ $("#searchCity").on("click", function(event) {
 
   addLI();
 
-  var city = $("#cityInput").val();
   var APIKey = "089100f1dce99fc69ca132b28b1e31ea";
+  var city = $("#cityInput").val();
   var queryURLWeather =
     "https://api.openweathermap.org/data/2.5/weather?q=" +
     city +
