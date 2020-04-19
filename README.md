@@ -4,6 +4,8 @@
 ### Application
 This is an application that allows users to see the 5-day weather forecast for multiple cities of their choosing. The user can simple add a city to the city search box and hit the search button. A list shall be populated of all the cities searched.
 
+![Alt text](./readmeWeather.png?raw=true "AppImage")
+
 ### View
 View the app [here](https://maxskewes.github.io/Weather-Forcast/).
 
